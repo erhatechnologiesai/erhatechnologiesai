@@ -17,19 +17,6 @@ I design, build, and deploy production-grade **Automation Systems**, **Autonomou
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
-
-| Domain | Technologies & Frameworks |
-|---|---|
-| **Orchestration & LLMs** | OpenAI, Anthropic, Gemini, Groq, LangChain, LangGraph, Multi-Agent Swarms, Tool Calling |
-| **RAG & Vector Search** | Hybrid Dense + Lexical Search, Semantic Chunking, FAISS, SQLite-Vec, ChromaDB |
-| **Backend & APIs** | Python 3.12, FastAPI, Uvicorn, Pydantic v2, Node.js, Webhooks, REST |
-| **Databases & Caching** | SQLite, PostgreSQL, Redis, Supabase |
-| **Automation & Integrations** | WhatsApp Cloud API, Telegram Bot API, Twilio Voice/IVR, n8n, Zapier DAGs, HubSpot/Salesforce CRMs |
-| **DevOps & Verification** | Git, Docker, Pytest, Linux, CI/CD, SOC2 & CAN-SPAM Compliance Guardrails |
-
----
-
 ## OUR PROJECTS
 
 <table>
