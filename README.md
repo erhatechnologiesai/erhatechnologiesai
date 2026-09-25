@@ -30,7 +30,7 @@ I design, build, and deploy production-grade **Automation Systems**, **Autonomou
 
 ---
 
-## 📦 Open-Source Repositories
+## OUR PROJECTS
 
 <table>
   <tr>
