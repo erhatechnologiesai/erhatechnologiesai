@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/Website-erhatechnologies.com-blue?style=flat&logo=googlechrome)](https://www.erhatechnologies.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-erhatechnologiesai-black?style=flat&logo=github)](https://github.com/erhatechnologiesai)
 [![Location](https://img.shields.io/badge/Location-Multan%2C%20Pakistan-orange?style=flat&logo=googlemaps)](https://maps.google.com)
-[![Repositories](https://img.shields.io/badge/Repositories-50%20Open--Source%20Projects-success?style=flat&logo=rocket)](https://github.com/erhatechnologiesai)
+[![Repositories](https://img.shields.io/badge/Repositories-Open--Source-success?style=flat&logo=github)](https://github.com/erhatechnologiesai)
 
 ---
 
@@ -12,7 +12,7 @@
 I design, build, and deploy production-grade **Automation Systems**, **Autonomous Multi-Agent Meshes**, and **Enterprise RAG Architectures**. My mission is to replace manual operational bottlenecks with deterministic, high-throughput software workflows.
 
 - 🔭 **Specialization:** Multi-Agent Coordination, RAG Pipelines, Context Memory, Event-Driven Webhook Automation, and Voice Processing.
-- ⚡ **Flagship Work:** Architected an ecosystem of **50 independent open-source production projects**, ranging from conversational telephony assistants to an enterprise multi-tenant automation platform.
+- ⚡ **Flagship Work:** Architected an ecosystem of independent open-source production projects, ranging from conversational telephony assistants to an enterprise multi-tenant automation platform.
 - 📍 **Headquarters:** Multan, Pakistan.
 
 ---
@@ -30,26 +30,7 @@ I design, build, and deploy production-grade **Automation Systems**, **Autonomou
 
 ---
 
-## 🌟 Featured Open-Source Repositories
-
-### 1. [automation-platform](https://github.com/erhatechnologiesai/automation-platform)
-> Multi-tenant enterprise platform uniting Autonomous Agents, RAG Pipelines, Dynamic Tool Calling, API Key RBAC, and telemetry metrics.
-
-### 2. [multi-agent-research-system](https://github.com/erhatechnologiesai/multi-agent-research-system)
-> Collaborative 4-agent consortium (Researcher, Data Analyst, Fact-Checker, Executive Synthesizer) with peer verification.
-
-### 3. [pdf-rag-chatbot](https://github.com/erhatechnologiesai/pdf-rag-chatbot)
-> Production PDF RAG engine featuring sliding-window chunking, vector similarity search, and exact page-level citations.
-
-### 4. [customer-support-chatbot](https://github.com/erhatechnologiesai/customer-support-chatbot)
-> Enterprise support agent with real-time sentiment frustration scoring and automated human escalation workflows.
-
-### 5. [natural-language-automation-builder](https://github.com/erhatechnologiesai/natural-language-automation-builder)
-> English prompt-to-DAG compiler translating plain text business requirements into executable Directed Acyclic Graph schemas.
-
----
-
-## 📂 Complete Software Repositories (50 Independent Projects)
+## 📂 Open-Source Repositories
 
 | Repository | Description | Category |
 |---|---|---|
