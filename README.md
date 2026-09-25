@@ -1,4 +1,4 @@
-# Hi there, I'm ERHA TECHNOLOGIES 👋
+# Hi there, I'm ERHA TECHNOLOGIES 
 ### Automation Engineer | Multi-Agent Systems Architect | Full-Stack Developer
 
 [![Website](https://img.shields.io/badge/Website-erhatechnologies.com-blue?style=flat&logo=googlechrome)](https://www.erhatechnologies.com/)
@@ -8,12 +8,12 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I design, build, and deploy production-grade **Automation Systems**, **Autonomous Multi-Agent Meshes**, and **Enterprise RAG Architectures**. My mission is to replace manual operational bottlenecks with deterministic, high-throughput software workflows.
 
-- 🔭 **Specialization:** Multi-Agent Coordination, RAG Pipelines, Context Memory, Event-Driven Webhook Automation, and Voice Processing.
-- ⚡ **Flagship Work:** Architected an ecosystem of independent open-source production projects, ranging from conversational telephony assistants to an enterprise multi-tenant automation platform.
-- 📍 **Headquarters:** Multan, Pakistan.
+-  **Specialization:** Multi-Agent Coordination, RAG Pipelines, Context Memory, Event-Driven Webhook Automation, and Voice Processing.
+-  **Flagship Work:** Architected an ecosystem of independent open-source production projects, ranging from conversational telephony assistants to an enterprise multi-tenant automation platform.
+-  **Headquarters:** Multan, Pakistan.
 
 ---
 
@@ -324,7 +324,7 @@ I design, build, and deploy production-grade **Automation Systems**, **Autonomou
 
 ---
 
-## 📬 Connect & Collaborate
+##  Connect & Collaborate
 - **Website:** [www.erhatechnologies.com](https://www.erhatechnologies.com/)
 - **GitHub:** [erhatechnologiesai](https://github.com/erhatechnologiesai)
 - **Email:** [contact@erhatechnologies.com](mailto:contact@erhatechnologies.com)
