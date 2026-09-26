@@ -1,270 +1,243 @@
-# Erha Technologies AI & Software Engineering Portfolio
-
-> **Engineering Dual Specialization:** Enterprise Full-Stack Software Systems + Autonomous Multi-Agent AI Automation
-
-Welcome to the engineering portfolio of **Erha Technologies AI**. This organization houses a comprehensive ecosystem of **70 open-source, production-grade repositories** spanning enterprise SaaS applications, real-time distributed platforms, autonomous AI swarms, and intelligent RAG architectures.
-
----
-
-### 🌐 Portfolio Architecture Overview
-
-| Track | Repositories | Core Stack | Automated Test Status |
-| :--- | :--- | :--- | :--- |
-| 🚀 **Full-Stack Software Engineering** | 20 Repositories | FastAPI, SQLite/PostgreSQL, WebSockets, Docker, HTML5/CSS3/ES6 | **100% Passing (pytest)** |
-| 🤖 **Autonomous AI & Intelligent Systems** | 50 Repositories | Python, LangChain, RAG, Multi-Agent Swarms, Tool Calling, Vector DBs | **100% Passing (pytest)** |
-| 🎯 **Total Portfolio Systems** | **70 Public Repositories** | Python, FastAPI, Docker, Microservices, AsyncIO | **Production-Ready** |
-
----
-
-## 🚀 Full-Stack Software Engineering & SaaS Platforms (20 Projects)
-A suite of 20 independent, production-ready enterprise software applications featuring dedicated test suites, containerized deployments, clean architectures, and modern web dashboards.
+## OUR PROJECTS
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/01-modern-crm-system">01-modern-crm-system</a> &nbsp; <code>Public</code></h4>
       <p>Enterprise Customer Relationship Management (CRM) system featuring multi-stage sales pipelines, contact tracking, activity logs, and real-time deal stage transitions.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/customer-support-chatbot">customer-support-chatbot</a> &nbsp; <code>Public</code></h4>
+      <p>An enterprise-grade, context-aware AI Customer Support Chatbot engineered with FastAPI, SQLite session persistence, real-time sentiment and frustration scoring, and automated human escalation workflows.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/website-sales-chatbot">website-sales-chatbot</a> &nbsp; <code>Public</code></h4>
+      <p>An autonomous website sales agent designed to qualify inbound leads in real time, recommend appropriate solution tiers, handle objections, and maximize conversion through dynamic Call-to-Action (CTA) generation.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/02-inventory-management-system">02-inventory-management-system</a> &nbsp; <code>Public</code></h4>
       <p>Real-time inventory tracking platform with SKU cataloging, automated stock alert thresholds, supplier purchase orders, and warehouse audit history.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/03-point-of-sale-system">03-point-of-sale-system</a> &nbsp; <code>Public</code></h4>
       <p>High-speed Point of Sale (POS) checkout terminal engine with barcode scanner support, tax calculation, multi-tender transactions, and receipt generation.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/whatsapp-business-assistant">whatsapp-business-assistant</a> &nbsp; <code>Public</code></h4>
+      <p>A production-grade WhatsApp Business Assistant integrating Meta Cloud API webhooks, stateful session handling, order inquiry resolution, and seamless human agent handoff.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/telegram-support-bot">telegram-support-bot</a> &nbsp; <code>Public</code></h4>
+      <p>An asynchronous Telegram Support Bot built with python-telegram-bot patterns, command dispatching, conversational query resolution, and automated support ticket logging.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/04-employee-management-system">04-employee-management-system</a> &nbsp; <code>Public</code></h4>
       <p>Human Resource Management System (HRMS) featuring employee records, department directory, leave application management, and role-based access.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/05-project-management-platform">05-project-management-platform</a> &nbsp; <code>Public</code></h4>
       <p>Agile project collaboration platform with Kanban board workflows, sprint milestones, task assignments, and completion velocity telemetry.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/appointment-booking-agent">appointment-booking-agent</a> &nbsp; <code>Public</code></h4>
+      <p>An intelligent appointment booking system utilizing natural language understanding and constraint satisfaction algorithms to schedule, reschedule, and verify calendar appointments without double-booking.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/pdf-rag-chatbot">pdf-rag-chatbot</a> &nbsp; <code>Public</code></h4>
+      <p>A production-ready PDF Question-Answering engine featuring sliding-window semantic chunking, dense vector similarity retrieval, and exact page-level source citations.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/06-helpdesk-ticketing-system">06-helpdesk-ticketing-system</a> &nbsp; <code>Public</code></h4>
       <p>Customer support ticket tracking system with priority queues, SLA resolution timers, agent assignment, and audit comment threads.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/07-appointment-booking-system">07-appointment-booking-system</a> &nbsp; <code>Public</code></h4>
       <p>Multi-service appointment scheduling engine with double-booking prevention, calendar conflict resolution, and customer notification workflows.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/multi-document-rag-system">multi-document-rag-system</a> &nbsp; <code>Public</code></h4>
+      <p>An enterprise multi-format RAG architecture capable of ingesting PDF, Markdown, DOCX, and TXT files, providing cross-document synthesis and document-level metadata filtering.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/company-knowledge-base">company-knowledge-base</a> &nbsp; <code>Public</code></h4>
+      <p>A secure enterprise internal knowledge assistant featuring Role-Based Access Control (RBAC), departmental data isolation, and strict source attribution for internal policies.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/08-form-builder-platform">08-form-builder-platform</a> &nbsp; <code>Public</code></h4>
       <p>Dynamic drag-and-drop form builder with schema validation, custom field configuration, public sharing links, and submission response analytics.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/09-ecommerce-platform">09-ecommerce-platform</a> &nbsp; <code>Public</code></h4>
       <p>Full-featured e-commerce storefront and order fulfillment platform with shopping cart state, discount promotions, and checkout pipeline.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/research-paper-rag">research-paper-rag</a> &nbsp; <code>Public</code></h4>
+      <p>An academic paper analysis assistant designed to ingest scientific PDFs, parse methodology, abstract, and results sections, and generate comparative literature summaries with BibTeX citations.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/website-rag-agent">website-rag-agent</a> &nbsp; <code>Public</code></h4>
+      <p>An autonomous web-crawling RAG agent that crawls target domains, extracts sanitized text, indexes page content, and provides grounded question-answering with exact URL source attribution.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/10-multivendor-marketplace">10-multivendor-marketplace</a> &nbsp; <code>Public</code></h4>
       <p>Multi-vendor digital marketplace with merchant store onboarding, unified catalog search, commission split tracking, and payout auditing.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/11-content-management-system">11-content-management-system</a> &nbsp; <code>Public</code></h4>
       <p>Headless CMS and publishing engine with draft/publish editorial workflows, category taxonomies, slug routing, and RESTful content APIs.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/research-agent">research-agent</a> &nbsp; <code>Public</code></h4>
+      <p>An autonomous AI research agent executing multi-step search query decomposition, source evidence collection, and comprehensive executive brief synthesis.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/web-research-agent">web-research-agent</a> &nbsp; <code>Public</code></h4>
+      <p>An intelligence-gathering research agent capable of multi-source web cross-referencing, source credibility scoring, and compiling verified executive dossiers.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/12-file-management-system">12-file-management-system</a> &nbsp; <code>Public</code></h4>
       <p>Cloud storage and file management service with multi-format binary uploads, metadata indexing, secure download tokens, and folder organization.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/13-url-shortener-analytics">13-url-shortener-analytics</a> &nbsp; <code>Public</code></h4>
       <p>High-performance link shortener with millisecond HTTP 307 redirects, custom aliases, click-stream geographic analytics, and referrer metrics.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/lead-qualification-agent">lead-qualification-agent</a> &nbsp; <code>Public</code></h4>
+      <p>A configurable B2B lead qualification agent evaluating inbound prospects against ICP (Ideal Customer Profile) metrics and generating standardized CRM payload objects.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/sales-agent">sales-agent</a> &nbsp; <code>Public</code></h4>
+      <p>An AI sales enablement agent equipped with conversational objection handling playbooks, dynamic value pitch formulation, and automated contract proposal follow-ups.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/14-feedback-survey-platform">14-feedback-survey-platform</a> &nbsp; <code>Public</code></h4>
       <p>Customer feedback and NPS survey engine with dynamic question scoring, sentiment categorization, response distribution, and CSV exports.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/15-expense-management-system">15-expense-management-system</a> &nbsp; <code>Public</code></h4>
       <p>Corporate expense and reimbursement tracker with multi-currency receipts, department budget limits, and managerial approval queues.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/customer-success-agent">customer-success-agent</a> &nbsp; <code>Public</code></h4>
+      <p>An AI Customer Success agent analyzing user product telemetry, detecting early indicators of churn risk, and automatically formulating proactive retention playbooks.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/productivity-agent">productivity-agent</a> &nbsp; <code>Public</code></h4>
+      <p>An autonomous productivity assistant that parses unstructured notes, emails, and chat messages into prioritized actionable tasks, and compiles daily executive standup briefings.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/16-invoicing-billing-system">16-invoicing-billing-system</a> &nbsp; <code>Public</code></h4>
       <p>Automated billing and invoice generation platform with itemized line items, tax computations, payment status tracking, and PDF export support.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/17-realtime-chat-application">17-realtime-chat-application</a> &nbsp; <code>Public</code></h4>
       <p>Real-time messaging service powered by WebSockets, persistent channel rooms, direct messages, active user presence, and typing telemetry.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>WebSockets</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/email-management-agent">email-management-agent</a> &nbsp; <code>Public</code></h4>
+      <p>An enterprise email management assistant that autonomously categorizes incoming messages, extracts urgency levels, detects action items, and generates contextual draft replies.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/meeting-assistant">meeting-assistant</a> &nbsp; <code>Public</code></h4>
+      <p>An intelligent meeting assistant that parses raw multi-speaker transcripts, extracts Minutes of Meeting (MoM), identifies key decisions, and compiles assigned action items.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/18-api-management-dashboard">18-api-management-dashboard</a> &nbsp; <code>Public</code></h4>
       <p>API gateway management dashboard with developer API key generation, rate-limit quota monitoring, usage metering, and latency analytics.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/19-job-board-platform">19-job-board-platform</a> &nbsp; <code>Public</code></h4>
       <p>Career portal and applicant tracking engine with employer job postings, candidate resume submissions, filterable search, and pipeline status.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/20-business-operations-platform">20-business-operations-platform</a> &nbsp; <code>Public</code></h4>
-      <p>Unified Business Operations & Resource Platform with multi-workspace isolation, CRM pipelines, double-entry financial ledgers, and executive analytics.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b> &nbsp;|&nbsp; <b>FastAPI</b> &nbsp;|&nbsp; <b>Docker</b></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤖 Autonomous AI Agents & Enterprise Automation (50 Projects)
-An extensive suite of 50 intelligent agents, RAG engines, multi-agent swarms, voice assistants, and enterprise workflow automation systems.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/customer-support-chatbot">customer-support-chatbot</a> &nbsp; <code>Public</code></h4>
-      <p>An enterprise-grade, context-aware AI Customer Support Chatbot engineered with FastAPI, SQLite session persistence, real-time sentiment and frustration scoring, and automated human escalation workflows.</p>
       <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/website-sales-chatbot">website-sales-chatbot</a> &nbsp; <code>Public</code></h4>
-      <p>An autonomous website sales agent designed to qualify inbound leads in real time, recommend appropriate solution tiers, handle objections, and maximize conversion through dynamic Call-to-Action (CTA) generation.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/whatsapp-business-assistant">whatsapp-business-assistant</a> &nbsp; <code>Public</code></h4>
-      <p>A production-grade WhatsApp Business Assistant integrating Meta Cloud API webhooks, stateful session handling, order inquiry resolution, and seamless human agent handoff.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/telegram-support-bot">telegram-support-bot</a> &nbsp; <code>Public</code></h4>
-      <p>An asynchronous Telegram Support Bot built with python-telegram-bot patterns, command dispatching, conversational query resolution, and automated support ticket logging.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/appointment-booking-agent">appointment-booking-agent</a> &nbsp; <code>Public</code></h4>
-      <p>An intelligent appointment booking system utilizing natural language understanding and constraint satisfaction algorithms to schedule, reschedule, and verify calendar appointments without double-booking.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/pdf-rag-chatbot">pdf-rag-chatbot</a> &nbsp; <code>Public</code></h4>
-      <p>A production-ready PDF Question-Answering engine featuring sliding-window semantic chunking, dense vector similarity retrieval, and exact page-level source citations.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/multi-document-rag-system">multi-document-rag-system</a> &nbsp; <code>Public</code></h4>
-      <p>An enterprise multi-format RAG architecture capable of ingesting PDF, Markdown, DOCX, and TXT files, providing cross-document synthesis and document-level metadata filtering.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/company-knowledge-base">company-knowledge-base</a> &nbsp; <code>Public</code></h4>
-      <p>A secure enterprise internal knowledge assistant featuring Role-Based Access Control (RBAC), departmental data isolation, and strict source attribution for internal policies.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/research-paper-rag">research-paper-rag</a> &nbsp; <code>Public</code></h4>
-      <p>An academic paper analysis assistant designed to ingest scientific PDFs, parse methodology, abstract, and results sections, and generate comparative literature summaries with BibTeX citations.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/website-rag-agent">website-rag-agent</a> &nbsp; <code>Public</code></h4>
-      <p>An autonomous web-crawling RAG agent that crawls target domains, extracts sanitized text, indexes page content, and provides grounded question-answering with exact URL source attribution.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/research-agent">research-agent</a> &nbsp; <code>Public</code></h4>
-      <p>An autonomous AI research agent executing multi-step search query decomposition, source evidence collection, and comprehensive executive brief synthesis.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/web-research-agent">web-research-agent</a> &nbsp; <code>Public</code></h4>
-      <p>An intelligence-gathering research agent capable of multi-source web cross-referencing, source credibility scoring, and compiling verified executive dossiers.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/lead-qualification-agent">lead-qualification-agent</a> &nbsp; <code>Public</code></h4>
-      <p>A configurable B2B lead qualification agent evaluating inbound prospects against ICP (Ideal Customer Profile) metrics and generating standardized CRM payload objects.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/sales-agent">sales-agent</a> &nbsp; <code>Public</code></h4>
-      <p>An AI sales enablement agent equipped with conversational objection handling playbooks, dynamic value pitch formulation, and automated contract proposal follow-ups.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/customer-success-agent">customer-success-agent</a> &nbsp; <code>Public</code></h4>
-      <p>An AI Customer Success agent analyzing user product telemetry, detecting early indicators of churn risk, and automatically formulating proactive retention playbooks.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/productivity-agent">productivity-agent</a> &nbsp; <code>Public</code></h4>
-      <p>An autonomous productivity assistant that parses unstructured notes, emails, and chat messages into prioritized actionable tasks, and compiles daily executive standup briefings.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/email-management-agent">email-management-agent</a> &nbsp; <code>Public</code></h4>
-      <p>An enterprise email management assistant that autonomously categorizes incoming messages, extracts urgency levels, detects action items, and generates contextual draft replies.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/erhatechnologiesai/meeting-assistant">meeting-assistant</a> &nbsp; <code>Public</code></h4>
-      <p>An intelligent meeting assistant that parses raw multi-speaker transcripts, extracts Minutes of Meeting (MoM), identifies key decisions, and compiles assigned action items.</p>
-      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/invoice-automation">invoice-automation</a> &nbsp; <code>Public</code></h4>
       <p>An automated invoice processing microservice that extracts vendor details, line items, and totals, performs mathematical integrity validation, and flags discrepancies.</p>
       <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/erhatechnologiesai/resume-screening-assistant">resume-screening-assistant</a> &nbsp; <code>Public</code></h4>
       <p>An explainable AI resume screening system that matches candidate qualifications against job requirements, conducts skill gap analysis, and generates transparent scoring reports.</p>
+      <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/erhatechnologiesai/20-business-operations-platform">20-business-operations-platform</a> &nbsp; <code>Public</code></h4>
+      <p>Unified Business Operations & Resource Platform with multi-workspace isolation, CRM pipelines, double-entry financial ledgers, and executive analytics.</p>
       <p><span style="color:#3572A5;">●</span> <b>Python</b></p>
     </td>
   </tr>
